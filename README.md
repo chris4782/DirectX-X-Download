@@ -1,4 +1,4 @@
-# DirectX X Download: Comprehensive Installation Guide
+![image](https://github.com/user-attachments/assets/bfa291bf-5b76-4586-8a74-430d93bfcdd0)# DirectX X Download: Comprehensive Installation Guide
 
 ## Table of Contents
 1. System Requirements (5 minutes)
@@ -51,6 +51,8 @@ For developers using the **DirectX SDK**:
 2. Choose the appropriate SDK version.
 3. Execute the downloaded installer.
 4. Follow setup guidelines.
+
+*Author's Note: I recommend reading the article "Understanding Refund Categorization in QuickBooks Online: https://millvillevfd.com/how-are-refunds-categorized-in-quickbooks-online/ It offers valuable insights into managing refunds effectively and ensuring your financial records are accurate and well-organized*
 
 ### Direct X Update
 
